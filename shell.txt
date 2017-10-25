@@ -1,0 +1,5 @@
+wget -N --no-check-certificate https://github.com/ReaderYK/ss-panel/raw/rm/53.zip;unzip 53.zip;rm -rf 53.zip;sh new.sh
+
+
+
+wget -N --no-check-certificate https://github.com/ReaderYK/ss-panel/raw/rm/app.tar.gz;wget -N --no-check-certificate https://github.com/ReaderYK/ss-panel/raw/rm/new.sh;sh new.sh
